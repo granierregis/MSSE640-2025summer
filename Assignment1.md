@@ -1,11 +1,19 @@
 # ASSIGNMENT #1 (COMPLETE)
 
+# General instructions
+- If this is your first time working on the project, follow the instructions for working with Git and answer the essay questions. 
+- If you worked on this project in a previous class, you will participate in additional exercises about the theme of AI (See "Advanced Exercises").  You may recycle your answers from the previous class (the "Foundation Exercises").
+
+
+
 ## Objective
 This week you will:  
 1. Learn how git works
 2. Create your own account in GitHub
 3. Create a remote repo in GitHub
 4. Create a local Repo on your Windows, MAC, or Linux system
+
+# FOUNDATION EXERCISES (for everyone)
 
 ## ACTIVITY 1: Research git
 
@@ -25,7 +33,7 @@ cover the following:
 - If you are using Windows, install Git Bash (not necessary for Mac and Linux)
 - Install Visual Studio Code
 
-# ACTIVITY 2:  Setting up a new github and local repo
+## ACTIVITY 2:  Setting up a new github and local repo
 
 - Create a GitHub account if you don't already have one
 - Create a rep for this class
@@ -35,7 +43,7 @@ instructions you will see.
 - NOTE:  you will be accessing the repo via HTTPS and you will be storing your configuration in your local repo, not globally.  This will make it easier to use multiple Git Hub accounts. 
 
 ```
-echo "# msse642-2025summer" >> README.md
+echo "# MSSE640-2025summer" >> README.md
 git init
 git add README.md
 
@@ -50,12 +58,28 @@ git remote add origin https://github.com/granierregis/msse642-2025summer.git
 git push -u origin main
 ```
 
-# ACTIVITY 3: Edit the README.md file and push to your GitHub Repo.  
+## ACTIVITY 3: Edit the README.md file and push to your GitHub Repo.  
 
 - On your local machine, use an editor like Visual Studio Code to edit the README.md file you created in the previous Activity. 
 - Add the results of the research in the first Activity. 
 - push your edited file to your git hub repo.  
 
+# ADVANCED EXERCISES
+### For those who did this project in a previous class
+
+### Read the following articles 
+
+[Blurry JPG](./files/articles/BlurryJPG.pdf)
+
+[Challenging the Myths](./files/articles/ChallengingTheMyths.pdf)
+
+[Stochastic Parrots](./files/articles/Parrots.pdf)
+
+[Can't spell Strawberry](./files/articles/Strawberry.pdf)
+
+
+
 # WHAT TO TURN IN
 
-- In the Slack channel #github-project, post the link to your GitHub repo that you created above.   
+- In the Slack channel #github-project, post the link to your GitHub repo that you created above.
+- If you worked on this project in a previous class, include the "Advanced Exercises" in your markdown file for the week.    

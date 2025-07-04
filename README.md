@@ -9,7 +9,8 @@
 
 
 # General instructions
-
+- If this is your first time working on the project, follow the instructions for working with Git and answer the essay questions. 
+- If you worked on this project in a previous class, you will participate in additional exercises about the theme of AI.  You may recycle your answers from the previous class (the foundation activities).  
 
 
 # References
@@ -17,16 +18,16 @@
 ## Basic Info
 
 - Repo URL 
-[Repo URL:  This one](https://github.com/granierregis/msse642-2025summer.git)
+[Repo URL:  This one](https://github.com/granierregis/MSSE640-2025summer.git)
 
 - How to find out the remote repo
 ```
 $ git remote -v
-origin  https://github.com/granierregis/msse642-2025summer.git (fetch)
-origin  https://github.com/granierregis/msse642-2025summer.git (push)
+origin  https://granierregis@github.com/granierregis/MSSE640-2025summer.git (fetch)
+origin  https://granierregis@github.com/granierregis/MSSE640-2025summer.git (push)
 ```
 
-- Local and global config
+## Local and global config
 - If using multiple GitHub accounts, I recommend ensuring that all of your config info is local
 ```
 $ git config --list --local
@@ -49,6 +50,15 @@ git config --local user.name "<First Last>"
 
 ```
 
+### If have trouble using multiple accounts from the same computer
+- Including the correct username for the repo in the remote. 
+- Credential helper will often cache one username and it will use that by default when you attempt 
+to use another repo where that username is not correct. 
+
+#### Example
+```
+git remote add origin https://granierregis@github.com/granierregis/MSSE640-2025summer.git
+```
 
 ## Mark Down Cheat Sheets
 

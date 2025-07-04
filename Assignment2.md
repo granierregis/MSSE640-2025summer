@@ -1,4 +1,8 @@
-# ASSIGNMENT #2 (COMPLETE)
+# ASSIGNMENT #2 (IN PROGRESS)
+
+# WARNING:  THIS ASSIGNMENT IS UNDER DEVELOPMENT
+- This assignment is still under development.  It will be finished a week before it is due or earlier.  
+- When this warning disappears and the assignment title says "COMPLETE" it will be done.  
 
 ## Objective
 This week you will:  

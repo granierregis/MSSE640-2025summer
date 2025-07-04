@@ -1,4 +1,10 @@
-# ASSIGNMENT #5 (COMPLETE)
+# ASSIGNMENT #5 (IN PROGRESS)
+
+
+# WARNING:  THIS ASSIGNMENT IS UNDER DEVELOPMENT
+- This assignment is still under development.  It will be finished a week before it is due or earlier.  
+- When this warning disappears and the assignment title says "COMPLETE" it will be done.  
+
 
 ## Objective
 This week you will:  
@@ -6,18 +12,20 @@ Work with branches while collaborating with others in the class.
 
 ## PREREQUISITES  
 
+### TEAMS (TBD)
 You work with with the following teams
+
 
 | Team      | Members |
 | ----------- | ----------- |
-| Team A      | Rasiel, Issael, Nithish, Sree       |
-| Team B   | Jose, Noah, Ramesh, John        |
-| Team C   | Spencer, Ben, Thomas, Nigel        |
+| Team A      |       |
+| Team B   |         |
+| Team C   |       |
 
 
 ## ACTIVITY 1: 
 
-1. Create a new file in your repo called "Assignment4CollaborationFile.md"
+1. Create a new file in your repo called "Assignment5CollaborationFile.md"
 2. Each member of the team will clone the repo of the other team members.   
 3. Make a local branch that is named with your name. 
 4. Make changes to the file, commit, and publish the branch. 
