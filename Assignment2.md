@@ -1,8 +1,4 @@
-# ASSIGNMENT #2 (IN PROGRESS)
-
-# WARNING:  THIS ASSIGNMENT IS UNDER DEVELOPMENT
-- This assignment is still under development.  It will be finished a week before it is due or earlier.  
-- When this warning disappears and the assignment title says "COMPLETE" it will be done.  
+# ASSIGNMENT #2 (COMPLETE)
 
 ## Objective
 This week you will:  
@@ -64,6 +60,18 @@ git clone https://github.com/granierregis/msse642-2025summer.git
 ![Visual Studio Code](./files/screenshots/Assignment2-5.jpg)
 
 ![Visual Studio Code](./files/screenshots/Assignment2-6.jpg)
+
+# ADVANCED EXERCISES
+### For those who did this project in a previous class
+
+### Read the following article
+[Bullshit Article](./files/articles/bullshit.pdf)
+
+### Discuss 
+- As software engineers, how should we distinguish between a system that makes mistakes and one that "bullshits" — generating plausible-sounding but unreliable output?  Give a real-world example. 
+- When designing or integrating large language models (LLMs), what responsibilities do we have to prevent the spread of 'bullshit'?
+- Can the same tools used to produce misinformation also be engineered to detect or mitigate it — and what design patterns or guardrails might make that possible?
+
 
 # WHAT TO TURN IN
 

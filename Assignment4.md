@@ -56,6 +56,14 @@ git fetch -p
 ![A typical Git Flow](./files/diagrams/git-flow-1.excalidraw.png)
 
 
+# ADVANCED EXERCISES
+### For those who did this project in a previous class
+
+### Read the following article
+[Bullshit Article](./files/articles/x.pdf)
+
+### Discuss 
+- 
 
 # WHAT TO TURN IN
 

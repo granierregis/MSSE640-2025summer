@@ -1,9 +1,4 @@
-# ASSIGNMENT #3 (IN PROGRESS) 
-
-# WARNING:  THIS ASSIGNMENT IS UNDER DEVELOPMENT
-- This assignment is still under development.  It will be finished a week before it is due or earlier.  
-- When this warning disappears and the assignment title says "COMPLETE" it will be done.  
-
+# ASSIGNMENT #3 (COMPLETE) 
 
 ## Objective
 
@@ -57,7 +52,13 @@ This is a code fence.
 
 
 
+# ADVANCED EXERCISES
+### For those who did this project in a previous class
 
+### Discuss:  Easy problems that are hard for LLMs.
+- One way to get a better understanding of what LLMs can and cannot do is to look at some of the seemingly simple questions that trip them up. 
+- Find some examples by experimenting or searching online.
+- Discuss why these problems are hard for LLMs even after several years of intensive effort to improve their performance — and what that tells us about their capacities now and in the future.
 
 
 # WHAT TO TURN IN
