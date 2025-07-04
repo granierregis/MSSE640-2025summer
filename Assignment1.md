@@ -67,7 +67,9 @@ git push -u origin main
 # ADVANCED EXERCISES
 ### For those who did this project in a previous class
 
-### Read the following articles 
+### Read one or more of following articles 
+- In the next step, you will answer a question that referres to one or two of the articles.
+- You can based your reading on the question that you pick (see reference in the question).
 
 [Blurry JPG](./files/articles/BlurryJPG.pdf)
 
@@ -77,7 +79,32 @@ git push -u origin main
 
 [Can't spell Strawberry](./files/articles/Strawberry.pdf)
 
+### Answer one of the following questions.  Pick the one that interests you. 
 
+1. What responsibilities do software engineers have in mitigating the environmental and social impacts of large language models (LLMs)?
+Refer to: “On the Dangers of Stochastic Parrots” and “Challenging the Myths of Generative AI”
+
+Discuss the trade-offs between model size, performance, and environmental cost. Should engineers prioritize technical excellence over equity and sustainability?
+
+2. How do myths and metaphors about AI (e.g., “learning,” “creativity,” “productivity”) influence public perception and policy?
+Refer to: “Challenging the Myths of Generative AI”
+
+Explore how language shapes beliefs about AI’s capabilities and limitations. How can software engineers and educators challenge misleading narratives?
+
+3. If ChatGPT is a “blurry JPEG of the Web,” what are the risks of using such tools in academic, journalistic, or legal settings?
+Refer to: “ChatGPT Is a Blurry JPEG of the Web”
+
+Evaluate the implications of lossy AI-generated content. How do accuracy, originality, and accountability suffer or thrive in such systems?
+
+4. What does the inability of LLMs to spell “strawberry” reveal about the architecture of current AI systems?
+Refer to: “Why AI Can’t Spell 'Strawberry’”
+
+Analyze the technical limitations of transformer-based models with respect to fine-grained symbolic understanding. How might future designs address this gap?
+
+5. Are larger AI models inherently better? When might smaller, curated models be preferable in software engineering practice?
+Refer to: “On the Dangers of Stochastic Parrots” and “Challenging the Myths of Generative AI”
+
+Debate the scaling myth and consider real-world scenarios (e.g., edge devices, local AI) where model size might not correlate with usefulness or trustworthiness.
 
 # WHAT TO TURN IN
 
