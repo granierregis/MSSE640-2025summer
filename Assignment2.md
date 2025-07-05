@@ -75,14 +75,17 @@ git clone https://github.com/granierregis/msse642-2025summer.git
 
 # WHAT TO TURN IN
 
-- In the Slack channel #github-project, post the link to your GitHub repo that you created above when you are done.
 - Your assignment will be completed in a markdown file. 
 - Name the markdown file:
 
 ```
 Assignment2<Lastname>
 ```
+- Follow the directions above to ensure that your markdown file contains everything required for the assignment.
+- Ensure that your markdown file for the assignment includes appropriate screen shots. 
+- In the Slack channel #github-project, post the link to your GitHub repo that you created above when you are done.
 
+### NOTE: 
 - Ensure in the root directory of your repository, you have a markdown file called "README.md."  In that file, include a link to the assignment this week. 
 - Example: 
 
@@ -90,4 +93,6 @@ Assignment2<Lastname>
 [Assignment #X](./Assignment#<Lastname>.md)
 ```
 
-- Follow the directions above to ensure that your markdown file contains everything required for the assignment
+### For advanced users (those who did the project before)
+- Follow the directions for "ADVANCED EXERCISES" and include your work in the markdown assignment for the week.  
+- Ensure that the "ADVANCED EXERCISES" section is clearly labeled with appropriate "header markdown." 

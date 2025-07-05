@@ -1,8 +1,4 @@
-# ASSIGNMENT #4 (IN PROGRESS)
-
-# WARNING:  THIS ASSIGNMENT IS UNDER DEVELOPMENT
-- This assignment is still under development.  It will be finished a week before it is due or earlier.  
-- When this warning disappears and the assignment title says "COMPLETE" it will be done.  
+# ASSIGNMENT #4 (COMPLETE)
 
 ## Objective
 This week you will:  
@@ -59,23 +55,30 @@ git fetch -p
 # ADVANCED EXERCISES
 ### For those who did this project in a previous class
 
-### Read the following article
-[Bullshit Article](./files/articles/x.pdf)
+### Read the following articles
+[AI Emotional Awareness](./files/articles/emotional-awareness.pdf)
+
+[Games are Rigged](./files/articles/guardian-rigged.pdf)
+
 
 ### Discuss 
-- 
+- What are some of the AI Assisted Coding tools, e.g. Cursor?   Will they replace coding as a skill?
+- If learning to code will become less important, what new skills will software engineers need to have.
+- Many think that software engineers will need to develop people skills more than ever.  Will AI out perform people in that area as well?
 
 # WHAT TO TURN IN
 
-- In the Slack channel #github-project, post the link to your GitHub repo that you created above when you are done.
-- Include screenshots for the steps above.  
 - Your assignment will be completed in a markdown file. 
 - Name the markdown file:
 
 ```
 Assignment4<Lastname>
 ```
+- Follow the directions above to ensure that your markdown file contains everything required for the assignment.
+- Ensure that your markdown file for the assignment includes appropriate screen shots. 
+- In the Slack channel #github-project, post the link to your GitHub repo that you created above when you are done.
 
+### NOTE: 
 - Ensure in the root directory of your repository, you have a markdown file called "README.md."  In that file, include a link to the assignment this week. 
 - Example: 
 
@@ -83,4 +86,7 @@ Assignment4<Lastname>
 [Assignment #X](./Assignment#<Lastname>.md)
 ```
 
-- Follow the directions above to ensure that your markdown file contains everything required for the assignment
+### For advanced users (those who did the project before)
+- Follow the directions for "ADVANCED EXERCISES" and include your work in the markdown assignment for the week.  
+- Ensure that the "ADVANCED EXERCISES" section is clearly labeled with appropriate "header markdown." 
+

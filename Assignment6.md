@@ -34,4 +34,4 @@ This week you will:
 
 # WHAT TO TURN IN
 - You will present your project in class or if you can't attend class, you will submit a video
- 
+- NOTE:  There are no "ADVANCED EXCERCISES" for this assignment. 
