@@ -6,8 +6,8 @@ Work with branches while collaborating with others in the class.
 
 ## PREREQUISITES  
 
-### TEAMS (TBD)
-You work with with the following teams
+### TEAMS
+- You will work with with the following teams
 
 
 | Team      | Members |
